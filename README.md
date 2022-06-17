@@ -2,7 +2,7 @@
 
 ## Summary
 
-Looking at the design spec [here](https://seekersadvisorshklimited.box.com/s/iut72ehwkwir3uxag00yf1bv89a7yavd), you will see a market watchlist of currency pairings. Your task will be to recreate this screen which will contain some dynamic elements. 
+Looking at the design spec attached, you will see a market watchlist of currency pairings. Your task will be to recreate this screen which will contain some dynamic elements. 
 
 ## Obtaining the data
 
