@@ -6,8 +6,9 @@ Looking at the design spec attached, you will see a market watchlist of currency
 
 ## Obtaining the data
 
-There are a few options, there is a publically accessible API available [here](https://www.freeforexapi.com/Home/Api) however this has been less reliable recently.
-Alternatively, you can sign up to a brokerage that offers API access such as [Oanda](https://developer.oanda.com/). You should never have to pay any fees for forex pricing data.
+There are a few options:
+- a publically accessible API available [here](https://www.freeforexapi.com/Home/Api) however this has been less reliable recently.
+- sign up to a brokerage that offers API access such as [Oanda](https://developer.oanda.com/). You should never have to pay any fees for forex pricing data.
  
 ## Specific requirements:
  
