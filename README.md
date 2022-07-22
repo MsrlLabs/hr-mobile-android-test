@@ -9,9 +9,9 @@ Looking at the design spec attached, you will see a market watchlist of currency
 There are a few options:
 - a publicly-accessible API available [here](https://www.freeforexapi.com/Home/Api) however this has been less reliable recently.
 - sign up to a brokerage that offers API access such as [Oanda](https://developer.oanda.com/). You should never have to pay any fees for forex pricing data.
- 
+
 ## Specific requirements:
- 
+
 - Use Kotlin (Android), or SwiftUI (iOS)
 - Use MVVM
 - The app should available on both landscape and portrait mode
@@ -25,7 +25,12 @@ There are a few options:
     * The Balance should be $10,000 USD * Number of forex pairings available.
     * The Margin / Used values on panel can be hardcoded $12,345.
 * Include Unit Tests where appropriate
- 
+
+### Submission ###
+
+Push the app to a private GitHub repo and collaborate with GitHub user sing-seekers.
+
+
 ## How we will judge the test:
- 
-We will evaluate how closely the finished result matches the design. In terms of the code, providing tests, documentation, demonstrating architectural knowledge and error handling, using threading correctly where appropriate and especially correctly leveraging the functional aspects of the language (Kotlin/Swift) are all things that would be considered beneficial. 
+
+We will evaluate how closely the finished result matches the design. In terms of the code, providing tests, documentation, demonstrating architectural knowledge and error handling, using threading correctly where appropriate and especially correctly leveraging the functional aspects of the language (Kotlin/Swift) are all things that would be considered beneficial.
