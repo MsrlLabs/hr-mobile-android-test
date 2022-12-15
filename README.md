@@ -28,7 +28,7 @@ There are a few options:
 
 ### Submission ###
 
-Push the app to a private GitHub repo and collaborate with GitHub user sing-seekers.
+Push the app to a private GitHub repo and collaborate with GitHub user ywsing-msrl.
 
 
 ## How we will judge the test:
